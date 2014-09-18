@@ -1,0 +1,1 @@
+#staticView package init file
